@@ -1,0 +1,15 @@
+.gif {
+    height: 50px;
+    width: auto;
+    position: relative;
+    right: -550px;
+}
+
+p {
+    position: relative;
+    right: -550px;
+}
+
+body {
+    background-color: lightblue;
+}
