@@ -8,8 +8,14 @@
 p {
     position: relative;
     right: -550px;
+    font-family: georgia;
 }
 
 body {
     background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    font-family: serif;
 }
